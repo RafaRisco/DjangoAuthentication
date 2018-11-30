@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: rafaelrisconardiz@gmail.com
+Date: Fri, 27 Jul 2018 03:55:38 -0000
+Message-ID: <153266373821.6632.7765639767859096266@CarlosJuri>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/accounts/reset/NQ/4y7-0735ca40ad53ce11f30d/
+
+Your username, in case you've forgotten: rafaelrisconardiz
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------
